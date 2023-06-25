@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952078763695",
+    "project_id": "kosan-d9e99",
+    "storage_bucket": "kosan-d9e99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952078763695:android:a1b4595be54a83a96f365a",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_penyewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952078763695-sudh575k50s2r2hltlmklc6v2rbvpgok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoDeAgFFUWxuTEy1JYQIG1BBwJxTzhzG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952078763695-sudh575k50s2r2hltlmklc6v2rbvpgok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
